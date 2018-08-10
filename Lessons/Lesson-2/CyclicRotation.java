@@ -4,6 +4,9 @@
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
+// Test Result
+// https://app.codility.com/demo/results/training7FX5BY-CPP/
+
 class Solution {
     public int[] solution(int[] A, int K) {
         // write your code in Java SE 8
